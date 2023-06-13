@@ -2,3 +2,5 @@
 """
 changes should conform with PEP styling conventions
 """
+a = 2
+b = 4
